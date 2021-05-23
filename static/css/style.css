@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(springgreen, lightseagreen);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.jumbotron {
+  background: none
+}
+
+.panel-body {
+  background-color: palegreen;
+  /* opacity: 0.3; */
+}
+
+.well {
+  background-color: palegreen;
+  /* opacity: 0.3; */
+}
+
+/* .bubble{
+  background-color: mintcream;
+  /* opacity: 0.3; */
+} */
+
+/* .bubble {
+  background-color: mintcream
+} */
+
+/* div {
+  background-color: mintcream;
+  opacity: 0.3;
+} */
+
+/* div {
+  background-color: mintcream;
+  opacity: 0.3;
+} */
